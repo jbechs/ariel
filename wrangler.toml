@@ -1,0 +1,8 @@
+name = "person-chat"
+main = "worker.js"
+compatibility_date = "2026-08-01"
+
+# After your GitHub Pages URL is known, you can optionally lock CORS down:
+#
+# [vars]
+# ALLOWED_ORIGIN = "https://YOUR-GITHUB-NAME.github.io"
